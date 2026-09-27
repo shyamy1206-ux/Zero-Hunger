@@ -1,4 +1,34 @@
 # Zero Hunger Food Bank
+# 🍲 Zero Hunger App
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+
+## 📖 Overview
+**Zero Hunger** is a tech-driven logistics solution engineered to bridge the gap between surplus food generation and starvation. Built natively for Android, this application acts as a real-time digital supply chain, instantly connecting restaurants, event caterers, and individuals with nearby NGOs and beneficiaries before surplus food spoils.
+
+This project was developed under the **Engineering and Technology** theme, emphasizing that hunger is not just a production problem, but a complex logistics and data-routing challenge.
+
+## Key Features
+*    **Real-Time Geo-Routing:** Integrates with Google Maps API to match food donors with the nearest active volunteers, minimizing transit time.
+*    **Inclusive Accessibility (TTS):** Features an integrated Text-to-Speech (TTS) engine and dynamic UI translation in **Marathi, Hindi, and English**, ensuring illiterate or non-tech-savvy users can easily request food via voice guides.
+*   **Cloud Database:** Powered by a highly scalable Supabase (PostgreSQL) backend for millisecond-fast food matching.
+*  **Admin Logistics Dashboard:** A comprehensive control room for NGOs to manage beneficiary queues, monitor food expiry times, and generate automated PDF audit reports.
+*    **Modern UI/UX:** Built entirely with Jetpack Compose using a clean, light-mode civic-tech aesthetic.
+
+##  Technology Stack
+*   **Frontend:** Kotlin, Jetpack Compose, Material Design 3
+*   **Backend & Auth:** Supabase 
+*   **Location Services:** Google Maps API, Android Location Services
+*   **Accessibility:** Native Android Speech & Locale APIs
+*   **Architecture:** MVVM (Model-View-ViewModel)
+
+##  How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/Zero-Hunger-App.git
 
 This is a lightweight Android app designed to help organizations and communities share surplus food.
 
