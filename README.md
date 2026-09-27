@@ -21,3 +21,4 @@ This is a lightweight Android app designed to help organizations and communities
 
 ## Testing
 Run unit tests inside `app/src/test/java/com/zerohunger/app/AppRepositoryTest.kt` to verify the core business logic (sorting, distribution, undo).
+<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/d800a2ae-665a-4c88-8ce7-3e44968b47d7" />
