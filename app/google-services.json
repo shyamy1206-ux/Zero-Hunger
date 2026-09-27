@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610563399734",
+    "project_id": "zero-hunger-f80b8",
+    "storage_bucket": "zero-hunger-f80b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610563399734:android:93bea3152552055c3ff897",
+        "android_client_info": {
+          "package_name": "com.zerohunger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAdOLuJdKm3nJ_GJCs1n_6bDCDuTpZag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610563399734:android:e61cdd924caf1d3a3ff897",
+        "android_client_info": {
+          "package_name": "om.zerohunger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuAdOLuJdKm3nJ_GJCs1n_6bDCDuTpZag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
